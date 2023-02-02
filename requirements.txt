@@ -15,5 +15,5 @@ six==1.11.0
 SQLAlchemy==1.2.18
 sqlparse==0.3.0
 statsmodels==0.8.0
-Werkzeug==0.14.1
+Werkzeug==0.15.5
 plotly==4.7.1
